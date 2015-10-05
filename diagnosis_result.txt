@@ -1,0 +1,7 @@
+Topfive possible faults:
+CLB 13 120 freq:2
+CLB 10 104 freq:1
+CLB 10 200 freq:1
+CLB 10 248 freq:1
+CLB 11 224 freq:1
+

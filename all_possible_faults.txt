@@ -1,0 +1,30 @@
+PIs:  101000011
+PPIs: 
+Possible faults: CLB 10	 200	 BFS:--x-----
+Possible faults: CLB 13	 216	 BFS:--x-----
+
+PIs:  100101000
+PPIs: 
+Possible faults: CLB 10	 248	 BFS:--xx----
+Possible faults: CLB 12	 233	 BFS:----1--x
+Possible faults: CLB 13	 252	 BFS:--x--x--
+
+PIs:  010011101
+PPIs: 
+Possible faults: CLB 11	 224	 BFS:--1-x--0
+Possible faults: CLB 12	 200	 BFS:--x-1--x
+Possible faults: CLB 13	 240	 BFS:--x-xx--
+
+PIs:  111111000
+PPIs: 
+Possible faults: CLB 10	 104	 BFS:x-xx-0--
+Possible faults: CLB 13	 184	 BFS:-xx-xx--
+
+PIs:  110101101
+PPIs: 
+Possible faults: CLB 13	 120	 BFS:xxx-xx--
+
+PIs:  111111111
+PPIs: 
+Possible faults: CLB 13	 120	 BFS:xxx-xx--
+

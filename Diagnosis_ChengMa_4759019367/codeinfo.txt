@@ -1,0 +1,12 @@
+Step:
+1.cd into this diagnosis directory
+2.type "make". Done.
+
+
+
+Coded with gcc in Linux.
+Made a Makefile and a cmd file, type "make" will do all.
+
+And results file output have not been finished. Currently I'm using printf() to verify my code and some formats may not be the same as required yet. So resutls will be displayed in the command window.
+
+Thanks
